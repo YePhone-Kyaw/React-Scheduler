@@ -507,7 +507,6 @@ const EmployeeScheduler = ({ employees, isKitchen }) => {
         position: 'absolute',         
         bottom: '500px',               
         right: '16px',                
-        width: '250px',               
         borderRadius: '8px',          
         padding: '10px 20px',              
         height: '50px',
